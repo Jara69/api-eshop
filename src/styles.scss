@@ -1,0 +1,8 @@
+/* You can add global styles to this file, and also import other style files */
+@import "src/bootstrap/bootstrap.scss";
+
+.cards{
+  display: flex;
+  justify-content: center;
+padding: 50px;
+}
